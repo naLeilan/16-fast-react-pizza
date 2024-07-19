@@ -1,8 +1,7 @@
-# React + Vite
+# Pizza App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I used this technologies and setup in this app:
 
-Currently, two official plugins are available:
+![283 - Application Planning3](https://github.com/user-attachments/assets/982eac28-547b-4b57-b733-6562c205ec3c)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![283 - Application Planning4](https://github.com/user-attachments/assets/8d703e7a-a121-4e00-9379-a221c2f9a4a8)
